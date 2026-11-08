@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "hooks": {
+    "Stop": [
+      {
+        "type": "command",
+        "command": "bash .github/skills/loading-states/scripts/check-loading.sh --hook src/features/users/UsersPage.tsx",
+        "timeout": 60
+      }
+    ]
+  }
+}

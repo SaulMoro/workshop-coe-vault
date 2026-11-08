@@ -1,0 +1,8 @@
+{
+  "name": "front-ui-states",
+  "description": "Loading and error states for React lists that read server data.",
+  "version": "0.1.0",
+  "kind": "asset-set",
+  "status": "PROPOSED",
+  "dependencies": ["front-react"]
+}

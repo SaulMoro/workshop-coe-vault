@@ -4,5 +4,6 @@
   "version": "0.1.0",
   "kind": "asset-set",
   "status": "PROPOSED",
+  "owner": "equipo-front",
   "dependencies": ["front-react"]
 }

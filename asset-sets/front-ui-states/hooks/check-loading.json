@@ -4,7 +4,7 @@
     "Stop": [
       {
         "type": "command",
-        "command": "bash .github/skills/loading-states/scripts/check-loading.sh --hook src/features/users/UsersPage.tsx",
+        "command": "bash .agents/skills/loading-states/scripts/check-loading.sh --hook",
         "timeout": 60
       }
     ]

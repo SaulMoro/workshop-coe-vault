@@ -1,0 +1,25 @@
+# Quién revisa cada set. En este vault de práctica los owners de los manifests son equipos
+# ficticios (ai-coe, equipo-dev, equipo-front, equipo-qa, equipo-back) y el formador revisa
+# en nombre de todos: GitHub solo admite aquí usuarios y equipos que existen.
+
+*                               @SaulMoro
+
+# ai-coe (ficticio)
+/asset-sets/common-core/        @SaulMoro
+/asset-sets/asset-kit/          @SaulMoro
+/tools/                         @SaulMoro
+
+# equipo-dev (ficticio)
+/asset-sets/dev-core/           @SaulMoro
+/asset-sets/dev-typescript/     @SaulMoro
+
+# equipo-front (ficticio)
+/asset-sets/front-core/         @SaulMoro
+/asset-sets/front-react/        @SaulMoro
+/asset-sets/front-cra/          @SaulMoro
+
+# equipo-qa (ficticio)
+/asset-sets/qa-core/            @SaulMoro
+
+# equipo-back (ficticio)
+/asset-sets/back-core/          @SaulMoro

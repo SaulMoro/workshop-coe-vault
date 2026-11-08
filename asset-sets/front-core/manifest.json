@@ -1,0 +1,9 @@
+{
+  "name": "front-core",
+  "description": "Browser front ends in any framework: markup, form fields, images and styles.",
+  "version": "1.0.0",
+  "kind": "asset-set",
+  "status": "ACTIVE",
+  "owner": "equipo-front",
+  "dependencies": ["dev-typescript"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "asset-kit",
+  "description": "Tools to write and review the assets of a set before they reach the vault.",
+  "version": "1.0.0",
+  "kind": "asset-set",
+  "status": "ACTIVE",
+  "owner": "ai-coe",
+  "dependencies": ["common-core"]
+}

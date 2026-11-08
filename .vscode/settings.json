@@ -1,0 +1,12 @@
+{
+  // Skills del vault para trabajar en él: /asset-review sale de su set, sin copiarla.
+  // Las personales se ocultan para que el taller salga igual en todos los equipos.
+  "chat.agentSkillsLocations": {
+    "asset-sets/asset-kit/skills": true,
+    "~/.agents/skills": false,
+    "~/.copilot/skills": false,
+    "~/.claude/skills": false
+  },
+  // Sin Copilot Memory: que no recuerde datos ni preferencias entre intentos del taller.
+  "chat.copilot.memory.enabled": false
+}

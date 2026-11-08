@@ -1,0 +1,2 @@
+# Saltos de línea LF en todo: un .sh con CRLF no arranca en Git Bash.
+* text=auto eol=lf

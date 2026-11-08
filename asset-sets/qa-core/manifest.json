@@ -1,0 +1,9 @@
+{
+  "name": "qa-core",
+  "description": "End-to-end testing of web applications through a real browser.",
+  "version": "1.0.0",
+  "kind": "asset-set",
+  "status": "ACTIVE",
+  "owner": "equipo-qa",
+  "dependencies": ["dev-core"]
+}

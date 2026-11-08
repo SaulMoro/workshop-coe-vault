@@ -1,0 +1,9 @@
+{
+  "name": "front-react",
+  "description": "Agent context for React applications built with Vite.",
+  "version": "1.0.0",
+  "kind": "asset-set",
+  "status": "ACTIVE",
+  "owner": "equipo-front",
+  "dependencies": ["front-core"]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "workshop-vault",
+  "kind": "vault",
+  "description": "Vault de práctica de la formación Vault y CDN del AI CoE: asset sets de ejemplo y las herramientas que los exportan y comprueban."
+}

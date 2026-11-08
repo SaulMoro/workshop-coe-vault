@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.log
+tmp/
+# El vault no se exporta a sí mismo: export.sh escribe en tu repositorio, no aquí.
+.agents/
+# Copia local de asset-review para versiones de VS Code sin chat.agentSkillsLocations (docs/copilot.md).
+.github/skills/

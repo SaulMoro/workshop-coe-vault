@@ -1,0 +1,14 @@
+{
+  "name": "front-cra",
+  "description": "Agent context for React applications still built with Create React App.",
+  "version": "1.0.0",
+  "kind": "asset-set",
+  "status": "DEPRECATED",
+  "owner": "equipo-front",
+  "dependencies": ["front-core"],
+  "deprecation": {
+    "reason": "Create React App no longer receives updates. New and migrated projects use Vite with front-react.",
+    "retireOn": "2027-06-30",
+    "replacedBy": ["front-react"]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "back-core",
+  "description": "Agent context for backend services, before a language or framework is chosen.",
+  "version": "0.1.0",
+  "kind": "asset-set",
+  "status": "PROPOSED",
+  "owner": "equipo-back",
+  "dependencies": ["dev-core"]
+}

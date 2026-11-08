@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "hooks": {
+    "Stop": [
+      {
+        "type": "command",
+        "command": "bash asset-sets/asset-kit/hooks/check-on-stop.sh",
+        "timeout": 120
+      }
+    ]
+  }
+}

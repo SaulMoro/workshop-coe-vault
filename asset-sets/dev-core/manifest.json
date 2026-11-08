@@ -1,0 +1,9 @@
+{
+  "name": "dev-core",
+  "description": "Practices for writing and changing code in any programming language.",
+  "version": "1.0.0",
+  "kind": "asset-set",
+  "status": "ACTIVE",
+  "owner": "equipo-dev",
+  "dependencies": ["common-core"]
+}

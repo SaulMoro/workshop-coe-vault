@@ -1,0 +1,9 @@
+{
+  "name": "dev-typescript",
+  "description": "TypeScript practices on top of dev-core: strict types and validation at the edges.",
+  "version": "1.0.0",
+  "kind": "asset-set",
+  "status": "ACTIVE",
+  "owner": "equipo-dev",
+  "dependencies": ["dev-core"]
+}

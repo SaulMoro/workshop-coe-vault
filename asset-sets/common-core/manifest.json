@@ -1,0 +1,8 @@
+{
+  "name": "common-core",
+  "description": "Context that helps with any agent task, whatever the stack.",
+  "version": "1.0.0",
+  "kind": "asset-set",
+  "status": "ACTIVE",
+  "owner": "ai-coe"
+}
